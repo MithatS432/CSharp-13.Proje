@@ -1,0 +1,8 @@
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\bin\Debug\Koleksiyonlar1.exe.config
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\bin\Debug\Koleksiyonlar1.exe
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\bin\Debug\Koleksiyonlar1.pdb
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\obj\Debug\Koleksiyonlar1.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\obj\Debug\Koleksiyonlar1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\obj\Debug\Koleksiyonlar1.exe
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\obj\Debug\Koleksiyonlar1.pdb
+C:\Users\mitha\source\repos\Koleksiyonlar1\Koleksiyonlar1\obj\Debug\Koleksiyonlar1.exe.config
